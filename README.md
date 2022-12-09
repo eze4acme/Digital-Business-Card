@@ -1,2 +1,2 @@
 # Digital Business Card 
- Digital business card was with react and tailwind css
+ Digital business card was done with react and tailwind css
