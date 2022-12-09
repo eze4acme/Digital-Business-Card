@@ -1,9 +1,9 @@
 import React from 'react'
-
+import photo from '../src/assets/photo.jpg'
 function Info() {
   return (
     <div className='w-8/12 bg-neutral-900 mx-auto mt-14 max-w-md'>
-        <img src="./src/assets/photo.jpg" className='rounded-t-xl'/>
+        <img src={photo} className='rounded-t-xl'/>
         <h1 className='text-center text-sky-300 font-bold text-3xl pt-4'>Eze Onyebuchi</h1>
         <p className='text-center text-yellow-600'>Frontend Developer</p>
         <p className='text-center text-xs text-white pt-1 mb-5'><a href="#">eze4acme.website</a></p>
